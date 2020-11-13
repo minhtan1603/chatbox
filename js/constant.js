@@ -34,5 +34,4 @@ const NAME_CLASS_card_footer = "card-footer"
 const NAME_CLASS_card = "card"
 const NAME_CLASS_col_md_8 = "col-md-8 col-xl-6 chat"
 const NAME_CLASS_row_justify_content_center  = "row justify-content-end h-100"
-const DATA_TIME = ["9:10 AM, Today","9:12 AM, Today"]
-const DATA_MESSAGE = ["Ok, thank you have a good day","Bye, see you"]
+
